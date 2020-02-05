@@ -1,0 +1,11 @@
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.exe
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.deps.json
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.runtimeconfig.json
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.runtimeconfig.dev.json
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.dll
+C:\OneDrive\Projects\workplace\.net\bin\Debug\netcoreapp3.1\workplace.pdb
+C:\OneDrive\Projects\workplace\.net\obj\Debug\netcoreapp3.1\workplace.csprojAssemblyReference.cache
+C:\OneDrive\Projects\workplace\.net\obj\Debug\netcoreapp3.1\workplace.AssemblyInfoInputs.cache
+C:\OneDrive\Projects\workplace\.net\obj\Debug\netcoreapp3.1\workplace.AssemblyInfo.cs
+C:\OneDrive\Projects\workplace\.net\obj\Debug\netcoreapp3.1\workplace.dll
+C:\OneDrive\Projects\workplace\.net\obj\Debug\netcoreapp3.1\workplace.pdb
